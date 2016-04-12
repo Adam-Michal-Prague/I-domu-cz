@@ -1,4 +1,5 @@
 # I-domu.cz
-Site of Application for administration of housing cooperatives and owners associations. (Project Stoped)
-![alt text](screenshots/screencaptureIdomucz.png "Description goes here")
-
+Aplikace pro správu SVJ a BD. / Site of Application for administration of housing cooperatives and owners associations. (Project Stoped)
+![alt text](screenshots/screencaptureIdomucz.png "i-domu.cz")
+![alt text](screenshots/screencaptureIdomucz2.png "i-domu.cz")
+![alt text](screenshots/screencaptureIdomucz3.png "i-domu.cz")
